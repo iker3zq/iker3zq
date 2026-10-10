@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="#banner"><img id="banner" src="images/iker_ezq-banner.png" width="680"/></a>
+  <a href="#banner"><img id="banner" src="images/iker3zq-banner.png" width="680"/></a>
 </div>
 <br />
 <div align="center">
@@ -17,7 +17,7 @@
     <td>
       <a href="https://www.tiktok.com/@iker_ezq" target="_blank"><img src="images/tiktok.png" height="48" width="48" /></a>
       <a href="https://www.instagram.com/iker_ezq" target="_blank"><img src="images/instagram.png" height="48" width="48" /></a>
-      <a href="#"><img src="images/discord.png" height="48" width="48" title="Discord: iker_ezq" /></a>
+      <a href="#"><img src="images/discord.png" height="48" title="Discord: iker_ezq" /></a>
       <a href="https://open.spotify.com/user/1zsq6ji3gxene6eebh6z7mcw0" target="_blank"><img src="images/spotify.png" height="48" width="48" /></a>
       <a href="https://www.reddit.com/user/Silent_Friendship837/" target="_blank"><img src="images/reddit.png" height="48" width="48" /></a> <a href="https://www.x.com/iker_ezq" target="_blank"><img src="images/twitter.png" height="48" width="48" /></a>
     </td>
@@ -25,12 +25,13 @@
 
   <tr>
     <td align="right"> 
-      <a href="#apps"><img id="apps" src="images/apps.png" height="16" /></a>
+      <a href="#software"><img id="software" src="images/software.png" height="16" /></a>
     </td>
     <td>
       <a href="https://www.skillicons.dev"><img src="images/figma.png" height="48" width="48" /></a>
       <a href="https://www.skillicons.dev"><img src="images/vscode.png" height="48" width="48" /></a>
       <a href="https://www.skillicons.dev"><img src="images/robloxstudio.png" height="48" width="48" /></a>
+      <a href="https://www.skillicons.dev"><img src="images/androidstudio.png" height="48" width="48" /></a>
     </td>
   </tr>
 
@@ -39,9 +40,11 @@
       <a href="#clanguages"><img id="clanguages" src="images/clanguages.png" height="16" /></a>
     </td>
     <td>
+      <a href="https://www.skillicons.dev"><img src="images/html.png" height="48" width="48" /></a>
       <a href="https://www.skillicons.dev"><img src="images/css.png" height="48" width="48" /></a>
       <a href="https://www.skillicons.dev"><img src="images/python.png" height="48" width="48" /></a>
       <a href="https://www.skillicons.dev"><img src="images/lua.png" height="48" width="48" /></a>
+      <a href="https://www.skillicons.dev"><img src="images/md.png" height="48" width="48" /></a>
     </td>
   </tr>
 
@@ -54,16 +57,7 @@
       <a href="https://www.skillicons.dev"><img src="images/cpp.png" height="48" width="48" /></a>
       <a href="https://www.skillicons.dev"><img src="images/cs.png" height="48" width="48" /></a>
       <a href="https://www.skillicons.dev"><img src="images/js.png" height="48" width="48" /></a>
-    </td>
-  </tr>
-
-  <tr>
-    <td align="right">
-      <a href="#mlanguages"><img id="mlanguages" src="images/mlanguages.png" height="16" /></a>
-    </td>
-    <td>
-      <a href="https://www.skillicons.dev"><img src="images/html.png" height="48" width="48" /></a>
-      <a href="https://www.skillicons.dev"><img src="images/md.png" height="48" width="48" /></a>
+      <a href="https://www.skillicons.dev"><img src="images/kotlin.png" height="48" width="48" /></a>
     </td>
   </tr>
 
@@ -81,3 +75,9 @@
     </td>
   </tr>
 </table>
+
+<div align="center">
+  <a href="https://code.visualstudio.com/"><img src="images/buttons/made_with_vscode.gif" /></a>
+  <a href="https://en.wikipedia.org/wiki/Microsoft_Windows"><img src="images/buttons/made_with_windows.gif" /></a>
+</div>
+
